@@ -35,6 +35,7 @@ else
    
     touch /var/log/v2ray/access.log /var/log/v2ray/error.log
 fi
+# 日志路径需要在config.json里配置
 chmod 777 /var/log/v2ray/access.log
 chmod 777 /var/log/v2ray/error.log
 
