@@ -18,8 +18,8 @@ cd v2ray-linux-64
 v2ray,启动！
 在当前目录使用`start.sh`
 ```
-chmod +x start.sh
-./start.sh
+chmod +x v2ray-start.sh
+./v2ray-start.sh
 ```
 ## 测试
 使用以下命令即可测试终端是否成功代理
