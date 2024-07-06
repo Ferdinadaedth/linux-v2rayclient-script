@@ -16,7 +16,7 @@ cd v2ray-linux-64
 ## 最后一步
 
 v2ray,启动！
-在当前目录使用`start.sh`
+在当前目录执行`v2ray-start.sh`
 ```
 chmod +x v2ray-start.sh
 ./v2ray-start.sh
