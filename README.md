@@ -22,6 +22,7 @@ chmod +x v2ray-start.sh
 ./v2ray-start.sh
 ```
 ## 测试
+当前终端不会生效，需要打开新的终端
 使用以下命令即可测试终端是否成功代理
 ```
 curl https://www.google.com -v
